@@ -1,6 +1,6 @@
 //모달 팝업창
 import React from 'react'
-import ReactDOM, { createPortal } from 'react-dom';
+import ReactDOM from 'react-dom';
 import classes from './Modal.module.css'
 
 //모달뒤 까만 반투명
